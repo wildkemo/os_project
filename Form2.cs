@@ -169,7 +169,7 @@ namespace OS_Project
 
 
                     spoons[(j + 1) % num].available = true;
-                    spoons[(j + 1) % num].pos.X = phs[j+1].pos.X - 40;
+                    spoons[(j + 1) % num].pos.X = phs[(j + 1) % num].pos.X - 40;
 
 
 
