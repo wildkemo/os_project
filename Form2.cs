@@ -77,7 +77,7 @@ namespace OS_Project
 
 
 
-            if (txts[index].Text != "")
+            if (txts[index].Text != "" && Convert.ToInt16(txts[index].Text) > 0)
             {
                 wait(spoons[index], spoons[(index + 1) % num], index, Convert.ToInt16(txts[index].Text));
 
