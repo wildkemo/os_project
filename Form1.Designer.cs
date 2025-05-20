@@ -59,9 +59,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(237, 89);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(825, 69);
+            this.label1.Size = new System.Drawing.Size(1069, 69);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Enter number of Philosiphers";
+            this.label1.Text = "Enter number of Philosiphers (MAX:7)";
             // 
             // Form1
             // 
