@@ -1,0 +1,11 @@
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\bin\Debug\OS_Project.exe.config
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\bin\Debug\OS_Project.exe
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\bin\Debug\OS_Project.pdb
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.csproj.AssemblyReference.cache
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.Form1.resources
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.Form2.resources
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.Properties.Resources.resources
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.csproj.GenerateResource.cache
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.csproj.CoreCompileInputs.cache
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.exe
+K:\Computer_Science\University\semester4\OS_Project\OS_Project\obj\Debug\OS_Project.pdb
